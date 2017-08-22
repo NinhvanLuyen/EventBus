@@ -4,7 +4,7 @@ Event Bus is library for broadcast event in app.
 ## Getting Started
 
 Event Bus is a model publish/subscribe broadcast event.
-Simplity for comunity betweent component Activity, Fragment, Services, Broadcast Receiver,v.v.v
+Simplity for communication betweent component Activity, Fragment, Services, Broadcast Receiver,v.v.v
 
 ### EventBus On Two Steps
 
