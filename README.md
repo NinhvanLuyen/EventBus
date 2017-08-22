@@ -11,7 +11,7 @@ Simplity for comunity betweent component Activity, Fragment, Services, Broadcast
 Step 1: Clone source and copy to your project
 
 ```
-Give the example
+https://github.com/NinhvanLuyen/EventBus.git
 ```
 Step 2: Using :
 
