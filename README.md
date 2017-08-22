@@ -36,7 +36,7 @@ public class ChargeEvent extends BaseEvent {
 }
 ```
 2. Post Event:
-Example here is Receiver for listent event Charging. And when charge plugin to your phone this will be broadcast event charge for all Component has registed this.
+Example here is Receiver for listent event Charging. And when you plugin charge to your phone this will be broadcast event charge for all Component has registed this.
 ```
 public class ReceiverCharging extends BroadcastReceiver
 {
